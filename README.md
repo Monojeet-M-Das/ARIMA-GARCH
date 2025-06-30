@@ -73,3 +73,5 @@ The script includes warnings about being a "SLOW PROCEDURE" due to:
     GARCH model estimation
 
 Consider running on a subset of data for testing purposes.
+
+The CSV data file is uploaded as well for subsequent usage.
